@@ -1,5 +1,3 @@
-package Tugas.Modul_02;
-
 class Player {
     private String name;
     private int hp;
