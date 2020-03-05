@@ -1,5 +1,3 @@
-package Tugas.Modul_02;
-
 class Box {
     private double width;
     private double heigh;
