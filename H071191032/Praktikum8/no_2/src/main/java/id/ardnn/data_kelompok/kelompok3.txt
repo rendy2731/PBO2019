@@ -1,0 +1,5 @@
+Nadiem Makarim;GOJEK;Male
+Achmad Zaky;Bukalapak;Male
+William Tanuwijaya;Tokopedia;Male
+Ferry Unardi;Traveloka;Male
+M. Alfatih Timur;Kitabisa;Male

@@ -1,0 +1,10 @@
+Monkey D. Luffy;SHP01;Male
+Roronoa Zoro;SHP02;Male
+Nami;SHP03;Female
+Usopp;SHP04;Male
+Sanji;SHP05;Male
+Tony Tony Chopper;SHP06;Male
+Nico Robin;SHP07;Female
+Franky;SHP08;Male
+Brook;SHP09;Male
+Jinbei;SHP10;Male
