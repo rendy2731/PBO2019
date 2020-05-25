@@ -1,0 +1,5 @@
+James Gosling;JAVA;Male
+Brendan Eich;JavaScript;Male
+Dennis Ritchie;C;Male
+Guido van Rossum;Python;Male
+Bjarne Stroustrup;C++;Male
